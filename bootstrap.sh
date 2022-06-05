@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e 
 
-git clone https://gitlab.com/nopain1210/vgca-nextcoloud.git
+git clone https://github.com/kma-custom-nextcloud/laravel-server.git
 cd vgca-nextcoloud
 cp .env.example .env
 
