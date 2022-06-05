@@ -2,7 +2,7 @@
 set -e 
 
 git clone https://github.com/kma-custom-nextcloud/vgca-nextcloud.git
-cd vgca-nextcoloud
+cd vgca-nextcloud
 cp .env.example .env
 
 composer require laravel/sail --dev -n
